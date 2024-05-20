@@ -16,7 +16,7 @@ SlideShare is great for presentations and last minute assignments but unfortunat
 
 ---
 
-<b> Live : https://slideshare.parthmaniar.tech </b>
+<b> Project Credits : https://chatgptlogindeutsch.de/wp-admin/edit.php </b>
 
 ## Screens
 
